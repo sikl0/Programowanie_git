@@ -1,0 +1,7 @@
+A to plik nr 2
+i jego edycja
+<<<<<<< HEAD
+a to wersja 1
+=======
+blablabla
+>>>>>>> 126f661f7570faa585d448eb1c61454d02e4d290
